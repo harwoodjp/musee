@@ -1,0 +1,17 @@
+body {
+  display: grid;
+  height: 100%;
+  cursor: url(./things/point/blue.cur), auto !important;
+}
+img {
+  height: 20em;
+}
+.frame {
+  margin: auto;
+}
+iframe {
+  display: none;
+}
+.go {
+  cursor: url(./things/point/boot.cur), auto !important;
+}
